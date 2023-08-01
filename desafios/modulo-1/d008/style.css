@@ -1,0 +1,15 @@
+p, h1 {
+    color: white;
+}
+
+#p-principal {
+    background-color: rgb(168, 164, 164);
+}
+
+#p-verde {
+    background-color: lime;
+}
+
+#p-amarela {
+    background-color: bisque;
+}
