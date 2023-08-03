@@ -52,7 +52,7 @@ section {
 
 section p{
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 5vw;
     line-height: 2em;
     padding-left: 30px;
     padding-bottom: 2em;
@@ -67,7 +67,7 @@ section.imagem {
 
 section.imagem#img1  {
     background-image: url(../images/background001.jpg);
-    background-position: right center;
+    background-position: center center;
 }
 
 section.imagem#img2  {
